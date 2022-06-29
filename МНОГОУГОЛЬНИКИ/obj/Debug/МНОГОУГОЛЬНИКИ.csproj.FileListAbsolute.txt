@@ -1,0 +1,81 @@
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe.config
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.pdb
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csprojAssemblyReference.cache
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.form.resources
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.Properties.Resources.resources
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.GenerateResource.cache
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.CoreCompileInputs.cache
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.exe
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.pdb
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe.config
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.pdb
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.form.resources
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.Properties.Resources.resources
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.GenerateResource.cache
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.CoreCompileInputs.cache
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.exe
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe.config
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.form.resources
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.Properties.Resources.resources
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.exe
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolF.resources
+C:\Users\user1\Desktop\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolL.resources
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolF.resources
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe.config
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csprojAssemblyReference.cache
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.form.resources
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.Properties.Resources.resources
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolF.resources
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.GenerateResource.cache
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.exe
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe.config
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csprojAssemblyReference.cache
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.form.resources
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.Properties.Resources.resources
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolF.resources
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolL.resources
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.GenerateResource.cache
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.exe
+C:\Users\karma\OneDrive\Рабочий стол\IT\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe.config
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csprojAssemblyReference.cache
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.form.resources
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.Properties.Resources.resources
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolF.resources
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.GenerateResource.cache
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.exe
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.trackH.resources
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe.config
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.exe
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\bin\Debug\МНОГОУГОЛЬНИКИ.pdb
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csprojAssemblyReference.cache
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.form.resources
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.Properties.Resources.resources
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolF.resources
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.trackH.resources
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.GenerateResource.cache
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.CoreCompileInputs.cache
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.exe
+E:\МНОГОУГОЛЬНИКИ 0.1\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.pdb
+C:\Users\karma\OneDrive\Рабочий стол\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.trackH.resources
+E:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.trackH.resources
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.csproj.AssemblyReference.cache
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.scrolF.resources
+D:\МНОГОУГОЛЬНИКИ\МНОГОУГОЛЬНИКИ\obj\Debug\МНОГОУГОЛЬНИКИ.trackH.resources

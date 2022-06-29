@@ -1,0 +1,106 @@
+	List<FIGURE> objs = new List<FIGURE>(); // объекты создающие выпуклую оболочку
+        List<PointF> points = new List<PointF>(); // точки создающие выпуклую оболочку
+        Color color = new Color(); // цвет оболочки
+        int width; // толщина оболочки
+        int n1 = 0, n2 = 0; // счетчики количества точек, лежащих по одну сторону от прямой
+        public СonvexHull() 
+        {
+            color = Color.Black;
+            width = 5;
+        }           
+	public List<FIGURE> makehull(List<FIGURE> F)
+        {
+            float Vector(FIGURE a, FIGURE b, FIGURE c, FIGURE d)
+            {
+                //return (c.Y - b.Y) * (a.X - b.X) - (c.X - b.X) * (a.Y - b.Y);
+                PointF v1 = new PointF(b.X - a.X, b.Y - a.Y);
+                PointF v2 = new PointF(d.X - c.X, d.Y - c.Y);
+                return v1.X * v2.Y - v1.Y * v2.X;
+            }
+
+            objs.Clear();
+
+            if (F.Count <= 3) // условия
+                return F;
+
+            /*
+            PointF tmp = new PointF(objs[0].X, objs[0].Y);
+            foreach (var i in objs)
+                if (i.Y > tmp.Y || (i.Y == tmp.Y && i.X > tmp.X))
+                    tmp = new PointF(i.X, i.Y);
+
+            objs.Sort((FIGURE A, FIGURE B) => { return Math.Atan2(A.Y, tmp.X) < Math.Atan2(B.Y, B.X) ? 1 : -1; });
+            */
+            for (int i = 0; i < F.Count; i++)
+            {
+                for (int j = i + 1; j < F.Count; j++)
+                {
+                    n1 = n2 = 0;
+                    for (int k = 0; k < F.Count; k++)
+                    {
+                        if (i != k && j != k)
+                        {
+                            if (Vector(F[i], F[j], F[i], F[k]) > 0)
+                                n1++;
+                            else if (Vector(F[i], F[j], F[i], F[k]) < 0)
+                                n2++;
+                        }
+                    }
+                    if (F.Count - 2 == n1 || F.Count - 2 == n2)
+                    {
+                        bool yesa = false; // флажок на повторную всречу объекта
+                        bool yesb = false; // другого
+                        foreach (FIGURE n in objs)
+                        {
+                            if (n == F[i])
+                                yesa = true;
+                            else if (n == F[i])
+                                yesb = true;
+                        }
+                        if (!yesa)
+                            objs.Add(F[i]);
+                        if (!yesb)
+                            objs.Add(F[j]);
+                    }
+                }
+            }
+            return objs;
+        }
+        public void drawlines(List<FIGURE> objs, PaintEventArgs e) // рисование линий между точками при условиях
+        {
+            points.Clear();
+            foreach (FIGURE f in objs)
+                points.Add(new PointF(f.X, f.Y));
+            if (points.Count > 2)
+                e.Graphics.DrawPolygon(new Pen(color, width), points.ToArray());
+        }
+
+
+
+
+
+--------------------
+
+
+	private void кругToolStripMenuItem_Paint(object sender, PaintEventArgs e)
+        {
+            e.Graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
+            //кругToolStripMenuItem.Che
+            //кругToolStripMenuItem.Image =
+
+            float radius = Math.Min((float)(кругToolStripMenuItem.Height * 0.8), (float)(кругToolStripMenuItem.Width * 0.8));
+            e.Graphics.FillEllipse(new SolidBrush(Color.Red), 
+                new RectangleF((float)(кругToolStripMenuItem.Height * 0.01), 
+                               (float)(кругToolStripMenuItem.Width * 0.01), radius, radius));
+        }
+
+
+
+-------------------
+
+
+
+
+
+//Type a = typeof(Circle);
+//F.Add((FIGURE) Activator.CreateInstance(typeof(Circle), new object[] { e.X, e.Y }));
